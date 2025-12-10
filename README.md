@@ -358,7 +358,7 @@ urlpatterns = [
 # Postman Token Request Example
 
 **Method:** `POST`
-**URL:** `/api/token`
+**URL:** `/api/token/`
 
 **Body → raw → JSON**
 
